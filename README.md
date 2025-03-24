@@ -1,9 +1,5 @@
 # WordPress Image Compressor Plugin 
 
----
-
-## Plugin Function Glossary (Reference for Students)
-
 ### Hooking into the Upload Process
 
 **`add_filter( 'wp_handle_upload', 'mic_compress_uploaded_image' );`**
